@@ -1,1 +1,1 @@
-{ "name": "roastah-dev", "features": { "ghcr.io/devcontainers/features/node:1": { "version": "20" } }, "postCreateCommand": "pnpm install" }
+{ "name": "roastah-dev", "features": { "ghcr.io/devcontainers/features/node:1": { "version": "20" } }, "postCreateCommand": "corepack enable && pnpm install" }
