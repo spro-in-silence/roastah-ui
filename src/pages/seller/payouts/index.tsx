@@ -1,0 +1,1 @@
+export default function Page() { return <div>src/pages/seller/payouts</div>; }
